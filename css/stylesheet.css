@@ -1,0 +1,72 @@
+@font-face{
+    font-family: 'adler';
+    src: url(fonts/Adler.ttf);
+}
+
+body {
+    background-color: rgb(8, 9, 11);
+    max-width: 1200px;
+    margin: auto;
+    font-family: 'adler';
+    color: rgb(154, 167, 14);
+}
+
+header {
+    background-color: darkcyan;
+    width: 300px;
+    position: fixed;
+    top: 30px;
+    left: 45px;
+}
+
+nav {
+    background-color: darkblue;
+    width: 300px;
+    position: fixed;
+    top: 115px;
+    left: 45px;
+}
+
+main {
+    background-color: blue;
+    width: 650px;
+    margin-left: 500px;
+}
+
+section {
+    background-color: aqua;
+    border: 23px, darkblue, solid;
+    text-align: center;
+    margin-top: 15px;
+    padding: 15px;
+}
+
+section img { 
+    border: 1px darkblue solid;
+}
+
+footer { 
+    background-color: rgb(14, 119, 14);
+    width: 300px;
+    position: fixed;
+    bottom: 45px;
+    left: 45px;
+}
+
+#splashgif{
+    background-color: aqua;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+
+}
+
+#splashgif:hover{
+    opacity: 0.5;
+}
+
+#hall{
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+}
