@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(8, 9, 11);
+    
     max-width: 1200px;
     margin: auto;
     font-family: 'adler';
@@ -12,29 +12,29 @@ body {
 }
 
 header {
-    background-color: darkcyan;
+    
     width: 300px;
     position: fixed;
-    top: 30px;
+    top: 15px;
     left: 45px;
 }
 
 nav {
-    background-color: darkblue;
+    
     width: 300px;
     position: fixed;
-    top: 115px;
+    top: 300px;
     left: 45px;
 }
 
 main {
-    background-color: blue;
+    background-image:url(vhstwo.png);
     width: 650px;
     margin-left: 500px;
 }
 
 section {
-    background-color: aqua;
+    background-image: url(img/Hallway.jpg);
     border: 23px, darkblue, solid;
     text-align: center;
     margin-top: 14px;
@@ -43,6 +43,7 @@ section {
 
 section img { 
     border: 1px darkblue solid;
+    
 }
 
 footer { 
@@ -54,11 +55,12 @@ footer {
 }
 
 #splashgif{
-    background-color: aqua;
+    
     text-align: center;
     width: 50%;
     margin: auto;
-
+    margin-top: 20%;
+    
 }
 
 #splashgif:hover{
