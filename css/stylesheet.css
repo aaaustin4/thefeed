@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url(/img/vhs.png);
+    background-image: url('../img/vhs.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
