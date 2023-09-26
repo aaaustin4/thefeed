@@ -56,8 +56,9 @@ body {
   }
   /* Add a card effect for articles */
   .card {
-    border-style: inset;
+    border-style: ridge;
     border-width: 5px;
+    border-color: rgb(33, 15, 134);
     padding: 20px;
     margin-top: 20px;
     
